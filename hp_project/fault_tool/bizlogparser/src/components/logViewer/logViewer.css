@@ -1,0 +1,12 @@
+.log-line {
+    cursor: pointer;
+  }
+  
+  .log-selected {
+    background-color: rgba(0, 123, 255, 0.1); /* 蓝色选中背景 */
+  }
+  
+  .log-failed {
+    background-color: rgba(255, 0, 0, 0.2); /* 红色警告背景 */
+  }
+  
